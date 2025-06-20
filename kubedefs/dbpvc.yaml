@@ -9,5 +9,5 @@ spec:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 3GI
+      storage: 3Gi
   storageClassName: default
